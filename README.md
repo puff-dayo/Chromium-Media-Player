@@ -19,7 +19,7 @@ Currently only one instance of `ChromiumMediaPlayer.exe` can be running at the s
 
 ## How to Use
 
-Simply download the `ChromiumMediaPlayer.exe` from Release, and run it to configure. (Set the browser path manually for other Chromium browsers. (Only tested on Windows 11 21H2, Chrome 120))
+Simply download the `ChromiumMediaPlayer.exe` from Release, and run it to configure. Install the extension aforementioned. (Set the browser path manually for other Chromium browsers. (Only tested on Windows 11 21H2, Chrome 120))
 
 Press Win+Alt+B to enable Windows HDR, and adjust SDR brightness in Windows' Display Settings.
 
