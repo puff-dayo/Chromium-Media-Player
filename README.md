@@ -4,7 +4,7 @@ Use Chrome and a ![media-player](https://github.com/inbasic/media-player) extens
 
 It can be set as the default video file opener, just like you would use other Windows desktop software: double-click to open a local video file in Chrome.
 
-![图片](https://github.com/puff-dayo/Chromium-Media-Player/assets/84665734/0bc2b989-92f9-4021-9bac-f545909abfa2)
+![Image](https://github.com/puff-dayo/Chromium-Media-Player/assets/84665734/0bc2b989-92f9-4021-9bac-f545909abfa2)
 
 
 ## Why?
