@@ -12,6 +12,8 @@ Sadly, RTX Video HDR and RTX Video Super Resolution work only on Chromium-based 
 
 This is why I wrote this program.
 
+Currently only one instance of `ChromiumMediaPlayer.exe` can be running at the same time.
+
 ## How to Use
 
 Simply download the `ChromiumMediaPlayer.exe` from Release, and run it to configure. (Set the browser path manually for other Chromium browsers. (Only tested on Windows 11 21H2, Chrome 120))
