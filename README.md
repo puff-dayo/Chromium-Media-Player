@@ -4,8 +4,6 @@ Use Chrome and a ![media-player](https://github.com/inbasic/media-player) extens
 
 It can be set as the default video file opener, just like you would use other Windows desktop software: double-click to open a local video file in Chrome.
 
-![图片](https://github.com/puff-dayo/Chromium-Media-Player/assets/84665734/087e95eb-1bf9-4251-aea5-c14484f1a4ac)
-
 ## Why?
 
 Because NVIDIA release ![RTX Video HDR](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4070-ti-super-rtx-video-hdr-game-ready-driver/), a new AI-enhanced HDR feature to all GeForce RTX GPUs, instantly converting any Standard Dynamic Range (SDR) video playing in select internet browsers into vibrant High Dynamic Range (HDR).
